@@ -1,0 +1,336 @@
+[
+  {
+    "category": {
+      "en": "BURGER",
+      "am": "በርገር",
+      "om": "Bargarii",
+      "ti": "በርገር"
+    },
+    "name": {
+      "en": "Burger",
+      "am": "በርገር",
+      "om": "Bargarii",
+      "ti": "በርገር"
+    },
+    "price": "720",
+    "image": "images/7-removebg-preview.png",
+    "title": {
+      "en": "500 g ground beef, 4 slices cheddar cheese, tomato slices, pickles (optional), ketchup and mayonnaise.",
+      "am": "500 ግራም የተፈጨ የበሬ ስጋ፣ 4 ቁራጭ ቼዳር አይብ፣ የቲማቲም ቁርጥራጮች፣ ኮምጣጤ (አማራጭ)፣ ኬቸፕ እና ማዮኔዝ።",
+      "om": "500 g foon loonii ciccitaa, chiizii Cheddar 4, timaatimii murame, pikkilii (filannoo), kechappii fi mayoneezii.",
+      "ti": "500 ግራም ዝተፈጠጠ ስጋ ብዕራይ፣ 4 ቁራጽ ቼዳር ቺዝ፣ ቲማቲም፣ ፒክልስ (ኣማራጺ)፣ ኬቸፕን ማዮኔዝን።"
+    }
+  },
+
+  {
+    "category": {
+      "en": "BURGER",
+      "am": "በርገር",
+      "om": "Bargarii",
+      "ti": "በርገር"
+    },
+    "name": {
+      "en": "All-American Burger",
+      "am": "አሜሪካዊ በርገር",
+      "om": "Bargarii Ameerikaa",
+      "ti": "ኣሜሪካዊ በርገር"
+    },
+    "price": "790",
+    "image": "images/menuimg/All-American_Burger-removebg-preview.png",
+    "title": {
+      "en": "Classic American burger with beef patty, cheddar cheese, tomato, pickles, ketchup and mayonnaise.",
+      "am": "የአሜሪካ ባህላዊ በርገር ከበሬ ስጋ፣ ቼዳር አይብ፣ ቲማቲም፣ ኮምጣጤ፣ ኬቸፕ እና ማዮኔዝ ጋር።",
+      "om": "Bargarii Ameerikaa foon loonii, chiizii Cheddar, timaatimii, pikkilii, kechappii fi mayoneezii qabu.",
+      "ti": "ኣሜሪካዊ በርገር ምስ ስጋ ብዕራይ፣ ቼዳር ቺዝ፣ ቲማቲም፣ ፒክልስ፣ ኬቸፕን ማዮኔዝን።"
+    }
+  },
+
+  {
+    "category": {
+      "en": "SALADS",
+      "am": "ሰላጣ",
+      "om": "Salaaxaa",
+      "ti": "ሰላጣ"
+    },
+    "name": {
+      "en": "Caesar Salad",
+      "am": "ሲዛር ሰላጣ",
+      "om": "Salaaxaa Siizarii",
+      "ti": "ሰላጣ ሲዛር"
+    },
+    "price": "590",
+    "image": "images/menuimg/Caesar_Salad-removebg-preview.png",
+    "title": {
+      "en": "Fresh lettuce salad with Caesar dressing, cheese and vegetables.",
+      "am": "ትኩስ ሰላጣ ከሲዛር ሶስ፣ አይብ እና አትክልቶች ጋር።",
+      "om": "Salaaxaa haaraa soosii Siizarii, chiizii fi kuduraalee waliin.",
+      "ti": "ሓዲሽ ሰላጣ ምስ ሶስ ሲዛር፣ ቺዝን ኣሕምልትን።"
+    }
+  },
+
+  {
+    "category": {
+      "en": "PASTA & NOODLES",
+      "am": "ፓስታ እና ኑድል",
+      "om": "Paastaa fi Nuudilii",
+      "ti": "ፓስታን ኑድልን"
+    },
+    "name": {
+      "en": "Chicken Alfredo",
+      "am": "ቺከን አልፍሬዶ",
+      "om": "Chicken Alfredo",
+      "ti": "ቺከን ኣልፍሬዶ"
+    },
+    "price": "600",
+    "image": "images/menuimg/Chicken_Alfredo-removebg-preview.png",
+    "title": {
+      "en": "Creamy pasta with chicken, cheese and Alfredo sauce.",
+      "am": "ክሬም ያለው ፓስታ ከዶሮ ስጋ፣ አይብ እና አልፍሬዶ ሶስ ጋር።",
+      "om": "Paastaa kiriimii qabu foon lukkuu, chiizii fi soosii Alfredo waliin.",
+      "ti": "ክሬም ዘለዎ ፓስታ ምስ ስጋ ደርሆ፣ ቺዝን ሶስ ኣልፍሬዶን።"
+    }
+  },
+
+  {
+    "category": {
+      "en": "PASTA & NOODLES",
+      "am": "ፓስታ እና ኑድል",
+      "om": "Paastaa fi Nuudilii",
+      "ti": "ፓስታን ኑድልን"
+    },
+    "name": {
+      "en": "Chicken Noodles",
+      "am": "የዶሮ ኑድል",
+      "om": "Nuudilii Lukkuu",
+      "ti": "ኑድል ደርሆ"
+    },
+    "price": "590",
+    "image": "images/menuimg/Chicken_Noodles-removebg-preview.png",
+    "title": {
+      "en": "Delicious noodles with chicken and fresh vegetables.",
+      "am": "ጣፋጭ ኑድል ከዶሮ ስጋ እና ትኩስ አትክልቶች ጋር።",
+      "om": "Nuudilii mi'aawaa foon lukkuu fi kuduraalee haaraa waliin.",
+      "ti": "ጥዑም ኑድል ምስ ስጋ ደርሆን ሓደሽቲ ኣሕምልትን።"
+    }
+  },
+   {
+    "category": {
+      "en": "BURGER",
+      "am": "በርገር",
+      "om": "Bargarii",
+      "ti": "በርገር"
+    },
+    "name": {
+      "en": "Classic Cheeseburger",
+      "am": "ክላሲክ ቺዝበርገር",
+      "om": "Bargarii Chiizii Kilaasikaa",
+      "ti": "ክላሲክ ቺዝበርገር"
+    },
+    "price": "750",
+    "image": "images/menuimg/Classic_Cheeseburger-removebg-preview.png",
+    "title": {
+      "en": "Juicy beef patty with cheddar cheese, tomato, lettuce, pickles, ketchup and mayonnaise.",
+      "am": "ጭማቂ ያለው የበሬ ስጋ ከቼዳር አይብ፣ ቲማቲም፣ ሰላጣ፣ ኮምጣጤ፣ ኬቸፕ እና ማዮኔዝ ጋር።",
+      "om": "Foon loonii mi'aawaa chiizii Cheddar, timaatimii, salaaxaa, pikkilii, kechappii fi mayoneezii waliin.",
+      "ti": "ጥዑም ስጋ ብዕራይ ምስ ቼዳር ቺዝ፣ ቲማቲም፣ ለቱስ፣ ፒክልስ፣ ኬቸፕን ማዮኔዝን።"
+    }
+  },
+  {
+    "category": {
+      "en": "SALADS",
+      "am": "ሰላጣ",
+      "om": "Salaaxaa",
+      "ti": "ሰላጣ"
+    },
+    "name": {
+      "en": "Garden Salad",
+      "am": "የአትክልት ሰላጣ",
+      "om": "Salaaxaa Biqiltuu",
+      "ti": "ሰላጣ ኣትክልቲ"
+    },
+    "price": "600",
+    "image": "images/menuimg/Garden_Salad-removebg-preview.png",
+    "title": {
+      "en": "Fresh garden salad made with vegetables and special dressing.",
+      "am": "ትኩስ የአትክልት ሰላጣ በተለየ ሶስ የተዘጋጀ።",
+      "om": "Salaaxaa kuduraa haaraa soosii addaa waliin qophaa'e.",
+      "ti": "ሓዲሽ ሰላጣ ኣትክልቲ ብፍሉይ ሶስ ዝተዳለወ።"
+    }
+  },
+  {
+    "category": {
+      "en": "PIZZA",
+      "am": "ፒዛ",
+      "om": "Piizaa",
+      "ti": "ፒዛ"
+    },
+    "name": {
+      "en": "Hawaiian Pizza",
+      "am": "ሃዋይያን ፒዛ",
+      "om": "Piizaa Hawaayii",
+      "ti": "ሃዋይያን ፒዛ"
+    },
+    "price": "590",
+    "image": "images/menuimg/Hawaiian-removebg-preview.png",
+    "title": {
+      "en": "Pizza topped with cheese, tomato sauce and Hawaiian style toppings.",
+      "am": "ፒዛ በአይብ፣ ቲማቲም ሶስ እና የሃዋይ ጣዕም ያላቸው ጨማሪዎች።",
+      "om": "Piizaa chiizii, soosii timaatimii fi wantoota Hawaayii qabu.",
+      "ti": "ፒዛ ምስ ቺዝ፣ ሶስ ቲማቲምን ተወሳኺ ናይ ሃዋይን።"
+    }
+  },
+  {
+    "category": {
+      "en": "BURGER",
+      "am": "በርገር",
+      "om": "Bargarii",
+      "ti": "በርገር"
+    },
+    "name": {
+      "en": "House Burger",
+      "am": "የቤት በርገር",
+      "om": "Bargarii Manaa",
+      "ti": "ናይ ገዛ በርገር"
+    },
+    "price": "490",
+    "image": "images/menuimg/House_Burger-removebg-preview.png",
+    "title": {
+      "en": "Special house burger with fresh ingredients and sauce.",
+      "am": "በቤት ልዩ መንገድ የተዘጋጀ በርገር በትኩስ ንጥረ ነገሮች እና ሶስ።",
+      "om": "Bargarii addaa manaatiin kuduraalee haaraa fi soosii waliin qophaa'e.",
+      "ti": "ፍሉይ ናይ ገዛ በርገር ምስ ሓደሽቲ ንጥረ ነገራትን ሶስን።"
+    }
+  },
+  {
+    "category": {
+      "en": "SALADS",
+      "am": "ሰላጣ",
+      "om": "Salaaxaa",
+      "ti": "ሰላጣ"
+    },
+    "name": {
+      "en": "House Salad",
+      "am": "የቤት ሰላጣ",
+      "om": "Salaaxaa Manaa",
+      "ti": "ናይ ገዛ ሰላጣ"
+    },
+    "price": "390",
+    "image": "images/menuimg/House_Salad-removebg-preview.png",
+    "title": {
+      "en": "Fresh house salad prepared with vegetables and special dressing.",
+      "am": "በትኩስ አትክልቶች እና ልዩ ሶስ የተዘጋጀ የቤት ሰላጣ።",
+      "om": "Salaaxaa manaatiin kuduraalee haaraa fi soosii addaa waliin.",
+      "ti": "ናይ ገዛ ሰላጣ ምስ ሓደሽቲ ኣሕምልትን ፍሉይ ሶስን።"
+    }
+  },
+  {
+    "category": {
+      "en": "PIZZA",
+      "am": "ፒዛ",
+      "om": "Piizaa",
+      "ti": "ፒዛ"
+    },
+    "name": {
+      "en": "Margherita Pizza",
+      "am": "ማርጋሪታ ፒዛ",
+      "om": "Piizaa Maargaritaa",
+      "ti": "ማርጋሪታ ፒዛ"
+    },
+    "price": "590",
+    "image": "images/menuimg/Marrgherita-removebg-preview.png",
+    "title": {
+      "en": "Classic pizza with tomato sauce, mozzarella cheese and fresh basil.",
+      "am": "ባህላዊ ፒዛ በቲማቲም ሶስ፣ ሞዛሬላ አይብ እና ትኩስ ባሲል።",
+      "om": "Piizaa aadaa soosii timaatimii, chiizii mozzarella fi baasiilii haaraa qabu.",
+      "ti": "ባህላዊ ፒዛ ብሶስ ቲማቲም፣ ሞዛሬላ ቺዝን ሓዲሽ ባሲልን።"
+    }
+  },
+  {
+    "category": {
+      "en": "BURGER",
+      "am": "በርገር",
+      "om": "Bargarii",
+      "ti": "በርገር"
+    },
+    "name": {
+      "en": "Original Beef Burger",
+      "am": "ኦሪጅናል የበሬ በርገር",
+      "om": "Bargarii Foon Loonii Dhugaa",
+      "ti": "ኦሪጅናል ብዕራይ በርገር"
+    },
+    "price": "890",
+    "image": "images/menuimg/Original_Beef_Burger-removebg-preview.png",
+    "title": {
+      "en": "Premium beef burger with fresh vegetables, cheese and special sauce.",
+      "am": "ከፍተኛ ጥራት ያለው የበሬ በርገር በትኩስ አትክልት፣ አይብ እና ልዩ ሶስ።",
+      "om": "Bargarii foon loonii qulqullina qabu kuduraalee, chiizii fi soosii addaa waliin.",
+      "ti": "ልዑል ጥራት ዘለዎ በርገር ምስ ኣሕምልቲ፣ ቺዝን ፍሉይ ሶስን።"
+    }
+  },
+  {
+    "category": {
+      "en": "PASTA & NOODLES",
+      "am": "ፓስታ እና ኑድል",
+      "om": "Paastaa fi Nuudilii",
+      "ti": "ፓስታን ኑድልን"
+    },
+    "name": {
+      "en": "Penne Primavera",
+      "am": "ፔኔ ፕሪማቬራ",
+      "om": "Penne Primavera",
+      "ti": "ፔኔ ፕሪማቬራ"
+    },
+    "price": "590",
+    "image": "images/menuimg/Penne_Primavera-removebg-preview.png",
+    "title": {
+      "en": "Penne pasta with fresh vegetables and delicious sauce.",
+      "am": "ፔኔ ፓስታ ከትኩስ አትክልቶች እና ጣፋጭ ሶስ ጋር።",
+      "om": "Paastaa Penne kuduraalee haaraa fi soosii mi'aawaa waliin.",
+      "ti": "ፔኔ ፓስታ ምስ ሓደሽቲ ኣሕምልትን ጥዑም ሶስን።"
+    }
+  },
+  {
+    "category": {
+      "en": "PIZZA",
+      "am": "ፒዛ",
+      "om": "Piizaa",
+      "ti": "ፒዛ"
+    },
+    "name": {
+      "en": "Pepperoni Supreme",
+      "am": "ፔፐሮኒ ሱፐሪም",
+      "om": "Pepperoni Supreme",
+      "ti": "ፔፐሮኒ ሱፐሪም"
+    },
+    "price": "690",
+    "image": "images/menuimg/Pepperoni_Supreme-removebg-preview.png",
+    "title": {
+      "en": "Pizza topped with pepperoni, cheese, tomato sauce and fresh toppings.",
+      "am": "ፒዛ በፔፐሮኒ፣ አይብ፣ ቲማቲም ሶስ እና ትኩስ ጨማሪዎች።",
+      "om": "Piizaa pepperoni, chiizii, soosii timaatimii fi dabalata haaraa qabu.",
+      "ti": "ፒዛ ምስ ፔፐሮኒ፣ ቺዝ፣ ሶስ ቲማቲምን ተወሳኺታትን።"
+    }
+  },
+  {
+    "category": {
+      "en": "PASTA & NOODLES",
+      "am": "ፓስታ እና ኑድል",
+      "om": "Paastaa fi Nuudilii",
+      "ti": "ፓስታን ኑድልን"
+    },
+    "name": {
+      "en": "Seafood Noodles",
+      "am": "የባህር ምግብ ኑድል",
+      "om": "Nuudilii Nyaata Galaanaa",
+      "ti": "ኑድል ምግቢ ባሕሪ"
+    },
+    "price": "290",
+    "image": "images/menuimg/Seafood_Noodles-removebg-preview.png",
+    "title": {
+      "en": "Noodles prepared with seafood and special sauce.",
+      "am": "ኑድል በባህር ምግብ እና ልዩ ሶስ የተዘጋጀ።",
+      "om": "Nuudilii nyaata galaanaa fi soosii addaa waliin qophaa'e.",
+      "ti": "ኑድል ብምግቢ ባሕሪን ፍሉይ ሶስን ዝተዳለወ።"
+    }
+  }
+]

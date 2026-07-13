@@ -1,0 +1,47 @@
+
+  [
+  {
+    "image": "/images/menuimg/macrone.png",
+    "name": {
+      "en": "MACARONE",
+      "am": "ማካሮኒ",
+      "om": "Makaroonii",
+      "ti": "ማካሮኒ"
+    },
+    "title": {
+      "en": "A burger is a popular fast food made with a soft bun filled with a juicy grilled beef patty (or chicken), fresh vegetables, and flavorful sauces.",
+      "am": "በርገር በለስላሳ ባን ውስጥ የተጠበሰ የበሬ ወይም የዶሮ ስጋ፣ አትክልቶች እና ጣፋጭ ሶሶች የተሞላ ታዋቂ ፈጣን ምግብ ነው።",
+      "om": "Bargariin nyaata saffisaa beekamaa dha; bunii laafaa keessa foon loonii ykn lukkuu bilcheeffame, kuduraalee fi soosii mi'aawaa qaba.",
+      "ti": "በርገር ብልሕ ባን ውሽጢ ዝተጠበሰ ስጋ ብዕራይ ወይ ደርሆ፣ ኣሕምልቲን ጥዑም ሶስን ዝሓዘ ተወዳጅ ፈጣን ምግቢ እዩ።"
+    },
+    "detail": {
+      "en": "🥩 Grilled beef or chicken patty 🧀 Melted cheese 🥬 Lettuce 🍅 Tomato slices",
+      "am": "🥩 የተጠበሰ የበሬ ወይም የዶሮ ስጋ 🧀 የቀለጠ አይብ 🥬 ሰላጣ 🍅 የቲማቲም ቁርጥራጮች",
+      "om": "🥩 Foon loonii ykn lukkuu bilcheeffame 🧀 Chiizii baqee 🥬 Salaaxaa 🍅 Timaatimii murame",
+      "ti": "🥩 ዝተጠበሰ ስጋ ብዕራይ ወይ ደርሆ 🧀 ዝቐለጠ ቺዝ 🥬 ለቱስ 🍅 ቁራጽ ቲማቲም"
+    },
+    "price": "600"
+  },
+  {
+    "image": "/images/menuimg/pasta.png",
+    "name": {
+      "en": "PASTA",
+      "am": "ፓስታ",
+      "om": "Paastaa",
+      "ti": "ፓስታ"
+    },
+    "title": {
+      "en": "Pasta is a delicious Italian dish prepared with noodles, rich sauces, vegetables, cheese, and your choice of meat.",
+      "am": "ፓስታ በኑድል፣ ጣፋጭ ሶስ፣ አትክልቶች፣ አይብ እና የምርጫዎ ስጋ የሚዘጋጅ ጣፋጭ የጣሊያን ምግብ ነው።",
+      "om": "Paastaan nyaata Xaaliyaanii beekamaa dha; noodilii, soosii mi'aawaa, kuduraalee, chiizii fi foon filannoo keessaniin qophaa'a.",
+      "ti": "ፓስታ ብኑድል፣ ጥዑም ሶስ፣ ኣሕምልቲ፣ ቺዝን ዝተመረጸ ስጋን ዝዳለው ጥዑም ናይ ጣልያን ምግቢ እዩ።"
+    },
+    "detail": {
+      "en": "🍝 Fresh pasta 🧀 Parmesan cheese 🥬 Fresh vegetables 🍗 Chicken or beef",
+      "am": "🍝 ትኩስ ፓስታ 🧀 ፓርሜዛን አይብ 🥬 ትኩስ አትክልቶች 🍗 ዶሮ ወይም የበሬ ስጋ",
+      "om": "🍝 Paastaa haaraa 🧀 Chiizii Paarmeezan 🥬 Kuduraalee haaraa 🍗 Lukkuu ykn loon",
+      "ti": "🍝 ሓዲሽ ፓስታ 🧀 ፓርሜዛን ቺዝ 🥬 ሓደሽቲ ኣሕምልቲ 🍗 ደርሆ ወይ ስጋ ብዕራይ"
+    },
+    "price": "340"
+  }
+]

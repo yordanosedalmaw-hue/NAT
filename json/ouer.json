@@ -1,0 +1,90 @@
+[
+  {
+    "img": "images/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19739.avif",
+    "name": {
+      "en": "MACARONI",
+      "am": "ማካሮኒ",
+      "om": "Makaroonii",
+      "ti": "ማካሮኒ"
+    },
+    "ditail": {
+      "en": "Delicious macaroni prepared with fresh ingredients, rich sauce, and a tasty flavor that makes every bite enjoyable.",
+      "am": "በአዲስ ግብዓቶች፣ ጣፋጭ ሶስ እና ልዩ ጣዕም የተዘጋጀ ጣፋጭ ማካሮኒ።",
+      "om": "Makaroonii mi'aawaa wantoota haaraa fi soosii mi'aawaan qophaa'e.",
+      "ti": "ብሓደሽቲ ቀመማትን ጥዑም ሶስን ዝተዳለወ ጥዑም ማካሮኒ።"
+    },
+    "pric": "480",
+    "button": {
+      "en": "Order Now",
+      "am": "አሁን ይዘዙ",
+      "om": "Amma Ajajii",
+      "ti": "ሕጂ ኣዝዝ"
+    }
+  },
+  {
+    "img": "images/pasta.jfif",
+    "name": {
+      "en": "PASTA",
+      "am": "ፓስታ",
+      "om": "Paastaa",
+      "ti": "ፓስታ"
+    },
+    "ditail": {
+      "en": "Fresh pasta cooked with delicious sauce and carefully selected ingredients for a satisfying meal.",
+      "am": "በጣፋጭ ሶስ እና በተመረጡ ግብዓቶች የተዘጋጀ ጣፋጭ ፓስታ።",
+      "om": "Paastaa haaraa soosii mi'aawaa fi wantoota filatamoo waliin qophaa'e.",
+      "ti": "ብጥዑም ሶስን ዝተመረጹ ቀመማትን ዝተዳለወ ሓድሽ ፓስታ።"
+    },
+    "pric": "390",
+    "button": {
+      "en": "Order Now",
+      "am": "አሁን ይዘዙ",
+      "om": "Amma Ajajii",
+      "ti": "ሕጂ ኣዝዝ"
+    }
+  },
+  {
+    "img": "images/images (8).jfif",
+    "name": {
+      "en": "BURGER",
+      "am": "በርገር",
+      "om": "Bargarii",
+      "ti": "በርገር"
+    },
+    "ditail": {
+      "en": "A juicy burger made with a soft bun, grilled meat, fresh vegetables, and special sauce.",
+      "am": "ለስላሳ ዳቦ፣ የተጠበሰ ስጋ፣ ትኩስ አትክልቶች እና ልዩ ሶስ የተዘጋጀ ጣፋጭ በርገር።",
+      "om": "Bargarii laafaa foon bilcheeffame, kuduraalee haaraa fi soosii addaa qabu.",
+      "ti": "ብለስላሳ ባን፣ ዝተጠበሰ ስጋ፣ ሓደሽቲ ኣሕምልቲን ፍሉይ ሶስን ዝተዳለወ በርገር።"
+    },
+    "pric": "500",
+    "button": {
+      "en": "Order Now",
+      "am": "አሁን ይዘዙ",
+      "om": "Amma Ajajii",
+      "ti": "ሕጂ ኣዝዝ"
+    }
+  },
+  {
+    "img": "images/images (9).jfif",
+    "name": {
+      "en": "PIZZA",
+      "am": "ፒዛ",
+      "om": "Piizaa",
+      "ti": "ፒዛ"
+    },
+    "ditail": {
+      "en": "Fresh pizza topped with cheese, vegetables, and delicious toppings baked to perfection.",
+      "am": "በቺዝ፣ በአትክልቶች እና በጣፋጭ ጨማሪ ምግቦች የተሞላ ትኩስ ፒዛ።",
+      "om": "Piizaa haaraa chizii, kuduraalee fi wantoota mi'aawoo irratti dabalaman qabu.",
+      "ti": "ብቺዝ፣ ኣሕምልቲን ጥዑማት ተወሰኽቲ ዝተሸፈነ ሓድሽ ፒዛ።"
+    },
+    "pric": "490",
+    "button": {
+      "en": "Order Now",
+      "am": "አሁን ይዘዙ",
+      "om": "Amma Ajajii",
+      "ti": "ሕጂ ኣዝዝ"
+    }
+  }
+]
