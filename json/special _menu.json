@@ -1,12 +1,12 @@
 
   [
   {
-    "image": "/images/menuimg/Penne_Primavera-removebg-preview.png",
+    "image": "images/menuimg/All-American_Burger-removebg-preview.png",
     "name": {
-      "en": "MACARONE",
-      "am": "ማካሮኒ",
-      "om": "Makaroonii",
-      "ti": "ማካሮኒ"
+       "en": "BURGER",
+      "am": "በርገር",
+      "om": "Bargarii",
+      "ti": "በርገር"
     },
     "title": {
       "en": "A burger is a popular fast food made with a soft bun filled with a juicy grilled beef patty (or chicken), fresh vegetables, and flavorful sauces.",
@@ -23,7 +23,7 @@
     "price": "600"
   },
   {
-    "image": "/images/menuimg/Chicken_Noodles-removebg-preview.png",
+    "image": "images/menuimg/Chicken Noodles.jfif",
     "name": {
       "en": "PASTA",
       "am": "ፓስታ",
