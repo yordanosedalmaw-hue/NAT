@@ -1,10 +1,195 @@
 [
   {
-    "id": 1,
-    "firstTxt": "ONE STOP",
-    "secondTxt": "BURGER",
-    "thredTxt": "HUMBURGER",
+  "Title": {
+    "footer_h2": {
+      "en": "Useful Links",
+      "am": "ጠቃሚ አገናኞች",
+      "om": "Hidhaa Faayidaa Qaban",
+      "ti": "ጠቐምቲ መራኸቢታት"
+    },
+    "Company": {
+      "en": "Company",
+      "am": "ድርጅት",
+      "om": "Dhaabbata",
+      "ti": "ትካል"
+    },
+    "Legal": {
+      "en": "Legal",
+      "am": "ሕጋዊ",
+      "om": "Seeraa",
+      "ti": "ሕጋዊ"
+    },
+    "ContactUs": {
+      "en": "Contact Us",
+      "am": "ያግኙን",
+      "om": "Nu Quunnamaa",
+      "ti": "ርኸቡና"
+    }
+  },
+
+  "Follow": {
+    "en": "Follow Us",
+    "am": "ይከተሉን",
+    "om": "Nu Hordofaa",
+    "ti": "ተኸተሉና"
+  },
+
+  "copyright": {
+    "en": "© 2026 NAT. All Rights Reserved.",
+    "am": "© 2026 NAT. መብቱ በሙሉ የተጠበቀ ነው።",
+    "om": "© 2026 NAT. Mirgi hundi eegamaadha.",
+    "ti": "© 2026 NAT. መሰላት ኩሎም ተሓልዮም እዮም።"
+  },
+
+  "button": {
+    "order": {
+      "en": "ORDER NOW",
+      "am": "አሁን ይዘዙ",
+      "om": "AMMA AJAAJI",
+      "ti": "ሕጂ ኣዝዝ"
+    },
+    "login": {
+      "en": "LOGIN",
+      "am": "ግባ",
+      "om": "SEENI",
+      "ti": "እቶ"
+    },
+    "languge": {
+      "en": "Language",
+      "am": "ቋንቋ",
+      "om": "Afaan",
+      "ti": "ቋንቋ"
+    }
+  },
+
+  "head": {
+    "home": {
+      "en": "Home",
+      "am": "መነሻ",
+      "om": "Mana",
+      "ti": "መበገሲ"
+    },
+    "specialmenu": {
+      "en": "Special Menu",
+      "am": "ልዩ ምግብ ዝርዝር",
+      "om": "Meenyaa Addaa",
+      "ti": "ፍሉይ ሜኑ"
+    },
+    "menu": {
+      "en": "Menu",
+      "am": "ምግብ ዝርዝር",
+      "om": "Meenyaa",
+      "ti": "ሜኑ"
+    }
+  },
+
+  "Company": {
+    "OurTeam": {
+      "en": "Our Team",
+      "am": "ቡድናችን",
+      "om": "Garee Keenya",
+      "ti": "ጉጅለና"
+    },
+    "Careers": {
+      "en": "Careers",
+      "am": "የስራ እድሎች",
+      "om": "Carraa Hojii",
+      "ti": "ስራሕ"
+    },
+    "Blog": {
+      "en": "Blog",
+      "am": "ብሎግ",
+      "om": "Biloogii",
+      "ti": "ብሎግ"
+    },
+    "AbountUs": {
+      "en": "About Us",
+      "am": "ስለ እኛ",
+      "om": "Waa'ee Keenya",
+      "ti": "ብዛዕባና"
+    },
+    "News": {
+      "en": "News",
+      "am": "ዜና",
+      "om": "Oduu",
+      "ti": "ዜና"
+    }
+  },
+
+  "Legal": {
+    "TermsConditions": {
+      "en": "Terms & Conditions",
+      "am": "ደንቦች እና ሁኔታዎች",
+      "om": "Ulaagaa fi Haala",
+      "ti": "ሕግታትን ኩነታትን"
+    },
+    "PrivacyPolicy": {
+      "en": "Privacy Policy",
+      "am": "የግላዊነት ፖሊሲ",
+      "om": "Imaammata Dhuunfaa",
+      "ti": "ፖሊሲ ምስጢራዊነት"
+    },
+    "CookiePolicy": {
+      "en": "Cookie Policy",
+      "am": "የኩኪ ፖሊሲ",
+      "om": "Imaammata Kukiinii",
+      "ti": "ፖሊሲ ኩኪ"
+    },
+    "Disclaimer": {
+      "en": "Disclaimer",
+      "am": "ማስተባበያ",
+      "om": "Itti Gaafatamummaa Hin Qabnu",
+      "ti": "ሓላፍነት ዘይምቕባል"
+    }
+  },
+
+  "ContactUs": {
+    "phone": {
+      "en": "📞 +251 911......",
+      "am": "📞 +251 911......",
+      "om": "📞 +251 911......",
+      "ti": "📞 +251 911......"
+    },
+    "email": {
+      "en": "✉️ info@example.com",
+      "am": "✉️ info@example.com",
+      "om": "✉️ info@example.com",
+      "ti": "✉️ info@example.com"
+    },
+    "address": {
+      "en": "📍 Addis Ababa, Ethiopia",
+      "am": "📍 አዲስ አበባ፣ ኢትዮጵያ",
+      "om": "📍 Finfinnee, Itoophiyaa",
+      "ti": "📍 ኣዲስ ኣበባ፣ ኢትዮጵያ"
+    }
+     
+  },
+  "display": {
+    "firstTxt": {
+      "en": "ONE STOP",
+      "am": "አንድ መድረሻ",
+      "om": "Bakka Tokko",
+      "ti": "ሓደ መድረሻ"
+    },
+    "secondTxt": {
+      "en": "BURGER",
+      "am": "በርገር",
+      "om": "Bargarii",
+      "ti": "በርገር"
+    },
+    "thredTxt": {
+      "en": "HAMBURGER",
+      "am": "ሃምበርገር",
+      "om": "Hambargarii",
+      "ti": "ሃምበርገር"
+    },
     "image": "images/7-removebg-preview.png",
-    "forthTxt": "Manage data backups and security.Ensure data accuracy and system availability.Monitor system usage and troubleshoot issues."
+    "forthTxt": {
+      "en": "Manage data backups and security. Ensure data accuracy and system availability. Monitor system usage and troubleshoot issues.",
+      "am": "የመረጃ ምትኬዎችን እና ደህንነትን ያስተዳድሩ። የመረጃ ትክክለኛነትን እና የስርዓት መገኘትን ያረጋግጡ። የስርዓት አጠቃቀምን ይከታተሉ እና ችግሮችን ይፍቱ።",
+      "om": "Kuusaa deetaa fi nageenya isaa to'achuu. Sirrii ta'uu deetaa fi argamuu sirnichaa mirkaneessuu. Fayyadama sirnichaa hordofuu fi rakkoolee furu.",
+      "ti": "ናይ ሓበሬታ ባክኣፕን ድሕነትን ተቖጻጸር። ትኽክለኛነት ሓበሬታን ምርካብ ስርዓትን ኣረጋግጽ። ኣጠቓቕማ ስርዓት ተኸታተልን ጸገማት ፍታሕን።"
+    }
   }
+}
 ]
